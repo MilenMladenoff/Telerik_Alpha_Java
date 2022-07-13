@@ -26,6 +26,7 @@ public class P8_BigNumbers {
                 System.out.print((arr1[i] + arr2[i] + remainder - 10) + " ");
                 remainder = 1;
             }
+
         }
     }
 

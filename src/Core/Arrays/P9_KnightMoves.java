@@ -38,6 +38,7 @@ public class P9_KnightMoves {
                         currentCol = nextCol;
                         break;
                     }
+                    
                 }
             }
         }

@@ -27,6 +27,7 @@ public class P7_LongestSequenceOfEqual {
             } else {
                 sequenceCounter = 1;
             }
+
         }
 
         System.out.println(maxSequence);

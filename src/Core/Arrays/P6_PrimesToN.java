@@ -16,6 +16,7 @@ public class P6_PrimesToN {
                     isPrime = false;
                     break;
                 }
+
             }
 
             if (isPrime) {
